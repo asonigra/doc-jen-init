@@ -4,6 +4,6 @@
   <artifactId>docker-jenkins</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <build>
-  	<filename>docker-jenkins</filename>
+  	<finalname>docker-jenkins</finalname>
   </build>
 </project>
